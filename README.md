@@ -29,7 +29,7 @@ SkillSphere is a micro-task platform designed to enhance skill-based learning th
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/strkx/SkillSphere.git
+   git clone https://github.com/dhruvdornal/SkillSphere.git
    cd SkillSphere
    ```
 
